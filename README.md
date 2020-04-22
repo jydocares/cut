@@ -1,3 +1,3 @@
 # cut
 Number Guessing Game
-Code added
+Code added.
